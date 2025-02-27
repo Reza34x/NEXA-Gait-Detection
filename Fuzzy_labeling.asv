@@ -1,0 +1,29 @@
+p0 = datas(:,42); % Nearly in the middle of feet
+p1 = datas(:,43);% Heel
+p3 = datas(:,45);% Heel
+n1 = datas(:, 48); % Toe
+
+% subplot(3, 1, 1)
+% plot(p1(2000:4000))
+% legend("heel1")
+% subplot(3, 1, 2)
+% plot(p3(2000:4000))
+% legend("heel2")
+% subplot(3, 1, 3)
+% plot(n1(2000:4000))
+% legend("toe")
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
